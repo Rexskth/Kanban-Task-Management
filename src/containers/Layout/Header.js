@@ -4,7 +4,7 @@ import React from 'react'
 import './header.style.scss'
 
 // components
-import Avatar from 'components/atoms/Avatar'
+import A1 from 'components/atoms/A1'
 
 function Header() {
   return (
