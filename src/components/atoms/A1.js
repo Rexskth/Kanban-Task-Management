@@ -3,8 +3,8 @@ import React from 'react'
 // style
 import './avatar.style.scss'
 
-function Avatar({ src }) {
-  return <img className="avatar" src={src} alt="Avatar" />
+function A1({ src }) {
+  return <img className="avatar" src={src} alt="A1" />
 }
 
 export default Avatar
